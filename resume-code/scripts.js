@@ -1,19 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
     const timelineData = [
         {
-            date: 'Feb 2022 - Present',
-            title: 'Chief Bug Creator',
-            description: 'At Innovative Solutions Inc., I excel in generating creative and elusive bugs to keep our testing team busy and entertained. Regularly praised for crafting bugs that evade detection and defy logic.'
+            date: 'Dec 2022 - Present',
+            title: 'Website Designer',
+            description: 'I have honed advanced skills by crafting visually appealing and fully functional websites through adept theme customization, plugin integration and overall WordPress optimization.' <br> 
+            'My dedication to providing high quality web solutions is evident through successful deployments across various projects.'
         },
         {
-            date: 'Aug 2019 - Jan 2022',
-            title: 'Freelance Sarcasm Specialist',
-            description: 'Offered a wide range of sarcasm consulting services. Helped clients understand the fine line between a hilarious email and an HR issue.'
-        },
-        {
-            date: 'May 2017 - Jul 2019',
-            title: 'Amateur Coffee Brewer',
-            description: 'Worked at JavaGenius, a tech startup where the code was less important than the coffee. Received the "Caffeine Innovator" award for my cold brew technique that kept coders awake for 72 hours straight.'
+            date: 'Jan 2023 - May 2023',
+            title: 'Bartender',
+            description: 'Managed bar operations with a focus on inventory management, order fulfillment, and maintaining high quality service standards.'
         }
     ];
 
