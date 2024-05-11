@@ -3,8 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             date: 'Dec 2022 - Present',
             title: 'Website Designer',
-            description: 'I have honed advanced skills by crafting visually appealing and fully functional websites through adept theme customization, plugin integration and overall WordPress optimization.' <br> 
-            'My dedication to providing high quality web solutions is evident through successful deployments across various projects.'
+            description: 'I have honed advanced skills by crafting visually appealing and fully functional websites through adept theme customization, plugin integration and overall WordPress optimization. My dedication to providing high quality web solutions is evident through successful deployments across various projects.'
         },
         {
             date: 'Jan 2023 - May 2023',
