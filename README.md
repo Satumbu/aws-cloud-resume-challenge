@@ -1,5 +1,7 @@
 # AWS Cloud Resume Challenge
-- This is my attempt at cloud resume challenge in AWS. What is Cloud Resume Challenge? - The [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in Cloud.
+- This is my attempt at cloud resume challenge in AWS.
+- What is Cloud Resume Challenge? -
+- The [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in Cloud.
 ## Architecture
 ![Cloud Resume Challenge Architecture-AWS Cloud Resume Challenge](https://github.com/Satumbu/aws-cloud-resume-challenge/assets/165922808/d192b5d0-5e57-41bb-bc74-fa848fada4c1)
 
