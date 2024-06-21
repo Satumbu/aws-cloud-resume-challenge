@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const timelineData = [
         {
             date: 'Dec 2021 - Present',
-            title: 'Website Designer | Freelance',
+            title: 'Website Designer | Self-Employed/Freelance',
             description: 'I have developed skills by crafting visually appealing and fully functional websites through adept theme customization, plugin integration and overall WordPress optimization.'
         },
         {
