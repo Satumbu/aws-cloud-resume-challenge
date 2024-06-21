@@ -1,15 +1,30 @@
 document.addEventListener('DOMContentLoaded', function() {
     const timelineData = [
         {
-            date: 'Dec 2022 - Present',
-            title: 'Website Designer',
-            description: 'I have honed advanced skills by crafting visually appealing and fully functional websites through adept theme customization, plugin integration and overall WordPress optimization. My dedication to providing high quality web solutions is evident through successful deployments across various projects.'
+            date: 'Dec 2021 - Present',
+            title: 'Website Designer | Freelance',
+            description: 'I have developed skills by crafting visually appealing and fully functional websites through adept theme customization, plugin integration and overall WordPress optimization.'
         },
         {
-            date: 'Jan 2023 - May 2023',
-            title: 'Bartender',
+            date: 'Mar - Jun 2023',
+            title: 'Bartender | Eggspectation Restaurant Café Bar',
             description: 'Managed bar operations with a focus on inventory management, order fulfillment, and maintaining high quality service standards.'
-        }
+        },
+        {
+            date: 'May 2022 - Aug 2022',
+            title: 'Nocturnal Custodian | Cactus Club Café',
+            description: 'Contributed as a vital member of a small crew responsible for the sanitation of ceramics and kitchen utensils.'
+        },
+        {
+            date: 'Oct 2021 - Dec 2021',
+            title: 'Warehouse Associate | Whites Location Equipment Supply',
+            description: 'Ensured equipment is in pristine condition before leaving the warehouse, demonstrating a commitment to quality and efficiency.'
+        },
+        {
+            date: 'Jan 2021 - Aug 2021',
+            title: 'Front Desk Receptionist | Benmak Car Hire',
+            description: 'Managed in-person, telephone and email inquiries, showcasing excellent communication skills.'
+        }   
     ];
 
     const timeline = document.getElementById('timeline');
