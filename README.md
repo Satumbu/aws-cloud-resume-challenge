@@ -15,4 +15,4 @@ This is my attempt at cloud resume challenge in AWS. What is Cloud Resume Challe
 ## Author
 Learn about [my experience](https://tad.drc.mybluehost.me/home/projects/) during the challenge.
 
-LinkedIn: [Satumbu Makayi](linkedin.com/in/satumbu-makayi-b5709125a)
+LinkedIn: [Satumbu Makayi](https://www.linkedin.com/in/satumbu-makayi-b5709125a/)
