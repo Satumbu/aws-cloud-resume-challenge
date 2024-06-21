@@ -142,6 +142,6 @@ li {
     background-color: #469ADD;
     color: white;
     padding: 5px 10px;
-    /*display: inline-block;*/
+    display: inline-block;
     font-size: 1.2em; 
 }
